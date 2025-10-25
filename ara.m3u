@@ -11,6 +11,18 @@ https://s2.voscast.com:10445/stream
 https://video.primis.tech/uploads/cn1/video/users/hls/27975/video_67c9835901bf4826348224/vid67c9926235ef5625581987.mp4/chunklist_480.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
 #EXTVLCOPT:http-referrer=https://2m.ma
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-logo="https://www.aljazeera.com/" group-title="English", Al jazeera
+https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8 
+#EXTINF:-1 tvg-id="Ronahi" tvg-logo="https://ronahi.tv/wp-content/uploads/2025/08/logoronahi-4.png" group-title="General", Ronahi
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV-avc1_400000=10000.m3u8
+#EXTINF:-1 tvg-id="Al Alam" tvg-logo="https://live2.alalam.ir//sites/2/style/v2/assets/images/logo/Logo-Alalam.svg" group-title="News", Alalam
+https://live2.alalam.ir/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="SBS World Movies" tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb?height=60&amp;type=webp&amp;quality=75" group-title="Movies", SBS World Movies
+https://sbs-live-prod-01.akamaized.net/Content/HLS_AES_TS/live/geo/channel(worldmovies)/hdntl=exp=1761446351~acl=%2f*~id=957f5315-21c0-48a5-a415-7c555b7edd96~data=hdntl~hmac=cd99ac598c2de2ff3ce71656d245ba5fc0ef2ba9477bf94fbbd4dcb78e6175fc/master-06.m3u8?aka_me_session_id=AAAAAAAAAADPif1oAAAAAFpuUqK/T0BRjdJ4UNIifhVb5a/YBinMUB9T5/z7Kqrl cJ9VrzTDUzU20K6x5GrALCUfefyJdwr&aka_media_format_type=hls&originpath=/linear/hls/pb/event/hk8zv5vkQsS6OO0FkiiHrA/stream/36e5d4ec-d0a2-4941-aab1-4f3702ce3662:SIN/variant/a4a7e2c5246a655dd50d90ac3f3312d1/bandwidth/3235752.m3u8
+#EXTINF:-1 tvg-id="Fifa Plus" tvg-logo="https://image.pr.sbsod.com/82e2f8e9-238d-599f-84e7-891a54026c9f?height=60&amp;type=webp&amp;quality=75" group-title="Sports", Fifa Plus
+https://sbs-live-prod-01.akamaized.net/FCE/FIFAPlus/HLS_AES_TSO/geo/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/V00000000/0/HLS/hdntl=exp=1761446479~acl=%2f*~id=beac9ef2-9a85-4a1f-bfb1-5870efba1102~data=hdntl~hmac=9d24a412b0c80c7c4918fefa776319e4db8856bc7048ce77bba84a6e2d2eff19/playlist_4300k_20251020T100738.m3u8?aka_me_session_id=AAAAAAAAAABPiv1oAAAAAOy9JcBlMSQpixp oIxP8X9cuYcaIaQUSopBz 3Dp/f18ibdtIbEwQBECBP60W71hJPozynmg0jG&aka_media_format_type=hls&originpath=/linear/hls/pb/event/5QikHJW4Q4iccdvUbX7Uaw/stream/b723a33b-caf7-4b79-8002-a3ae1cdc2438:SIN/variant/2369d7a948fa209cc28194b5b0f66ef9/bandwidth/4362312.m3u8
+#EXTINF:-1 tvg-id="SBS Arabic" tvg-logo="https://image.pr.sbsod.com/37ad5c21-7dc4-55a9-bfab-0e6d1d8ebcb3?height=60&amp;type=webp&amp;quality=75" group-title="General", SBS Arabic
+https://sbs-live-prod-01.akamaized.net/HLS_AES_TSO/FCA/geo/channel(arabic24)/vs1080p-4M/hdntl=exp=1761446582~acl=%2f*~id=02dd935a-ffa3-46ca-bb29-956d9d8727eb~data=hdntl~hmac=ea47a2bcdde3795194abe75414fe25cadffe2f470a495bbefb3f36a6c6593192/index.m3u8?originpath=/linear/hls/pb/event/mNjAuaT6QBCoBPqR3R_jJQ/stream/0f8e837f-d239-4fd7-a3c8-11ed0df84b5a:SIN/variant/083dbdc2bbb33062d628d1ec2a3d9079/bandwidth/4540800.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)

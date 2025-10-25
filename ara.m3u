@@ -13,7 +13,7 @@ https://video.primis.tech/uploads/cn1/video/users/hls/27975/video_67c9835901bf48
 #EXTVLCOPT:http-referrer=https://2m.ma
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-logo="https://www.aljazeera.com/" group-title="English", Al jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/03.m3u8 
-#EXTINF:-1 tvg-id="Ronahi" tvg-logo="https://ronahi.tv/wp-content/uploads/2025/08/logoronahi-4.png" group-title="General", Ronahi
+#EXTINF:-1 tvg-id="Ronahi" tvg-logo="https://ronahi.tv/wp-content/uploads/2025/08/logoronahi.png" group-title="General", Ronahi
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV-avc1_400000=10000.m3u8
 #EXTINF:-1 tvg-id="Al Alam" tvg-logo="https://live2.alalam.ir//sites/2/style/v2/assets/images/logo/Logo-Alalam.svg" group-title="News", Alalam
 https://live2.alalam.ir/live/Alalam/index.m3u8
@@ -986,3 +986,4 @@ http://213.57.91.138:8000/play/a05s
 http://213.57.91.138:8000/play/a05t
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@Egypt" tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="Entertainment;Series",Zee Alwan Egypt (576p)
 http://213.57.91.138:8000/play/a05u
+

@@ -7,6 +7,8 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 https://video2.getstreamhosting.com:19360/8210/8210.m3u8
 #EXTINF:-1 tvg-id="Husna" tvg-logo="https://s2.voscast.com:10445/themes/husna/logo.svg" group-title="Radio",Husna
 https://s2.voscast.com:10445/stream
+#EXTINF:-1 tvg-id="AlhiwarTV" tvg-logo="https://alhiwar.tv/wp-content/uploads/2021/11/HIWAR-LOGO_PNG.png" group-title="General",AlhiwarTV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Yaqeen" tvg-logo="https://cdn-profiles.tunein.com/s199080/images/logod.png?t=637399539870000000" group-title="Radio",Yaqeen
 https://video.primis.tech/uploads/cn1/video/users/hls/27975/video_67c9835901bf4826348224/vid67c9926235ef5625581987.mp4/chunklist_480.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" http-referrer="https://2m.ma" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde
@@ -986,4 +988,5 @@ http://213.57.91.138:8000/play/a05s
 http://213.57.91.138:8000/play/a05t
 #EXTINF:-1 tvg-id="ZeeAlwan.ae@Egypt" tvg-logo="https://i.imgur.com/OLuCox7.png" group-title="Entertainment;Series",Zee Alwan Egypt (576p)
 http://213.57.91.138:8000/play/a05u
+
 
